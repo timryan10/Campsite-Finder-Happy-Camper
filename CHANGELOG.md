@@ -1,0 +1,77 @@
+- Merge pull request #26 from tmcomaniciu/map
+- adjusted navbar and improved ui
+- Merge pull request #25 from tmcomaniciu/map
+- popup added
+- map completed
+- Merge pull request #24 from tmcomaniciu/Laney's-branch-2
+- fixed the color and size on search bar
+- Merge https://github.com/tmcomaniciu/Campsite-Reservation-Website into Laney's-branch-2
+- Merge pull request #23 from tmcomaniciu/added-sign-in
+- added sign-in
+- test
+- Merge https://github.com/tmcomaniciu/Campsite-Reservation-Website into Laney's-branch-2
+- .json
+- Merge pull request #21 from tmcomaniciu/compiled-code
+- Merge branch 'main' into compiled-code
+- compiled code
+- Merge pull request #19 from tmcomaniciu/Laney's-branch-2
+- cleaning up code
+- Merge pull request #18 from tmcomaniciu/display-data-frontend
+- backend module changes
+- backend module changes
+- backend module changes
+- Merge pull request #17 from tmcomaniciu/display-data-frontend
+- resolving conflict
+- Merge pull request #16 from tmcomaniciu/display-data-frontend
+- resolving conflict
+- updating new and update camp pages
+- Merge pull request #15 from tmcomaniciu/campsite_add_form
+- Merge branch 'main' into campsite_add_form
+- adding new and update camp pages
+- merge
+- Merge pull request #14 from tmcomaniciu/styling2
+- framework for viewig campsites
+- completed add campsite form, linked to DB
+- restructuring file directory
+- deleting node modules that was added by mistake
+- adding reviews and stars to camp page
+- navbar
+- working on About Us
+- Merge pull request #13 from tmcomaniciu/revert-12-tudor-authentication-register-login
+- Revert "Completed auth, signin/out, registration"
+- Merge pull request #12 from tmcomaniciu/tudor-authentication-register-login
+- merged branches
+- cpmpleted auth, signIn, signOut, registration
+- made fade in and out for header links
+- added app context, registration confirmation
+- adding search functionality
+- Merge pull request #11 from tmcomaniciu/seeders-data
+- adding camp page
+- adding camp page
+- Merge pull request #6 from tmcomaniciu/styling
+- sorted backend files
+- sorted backend files
+- fixed frontend bug, creat account logs data in db
+- added frontend create account, connected to backend
+- adding reviews model and route
+- deleting campsite folder
+- deleting campsite folder
+- Adding seeds data
+- adding night mode
+- added authentication, registration for login
+- the backgroung img now changes every 20 seconds
+- adding background img
+- Merge pull request #2 from tmcomaniciu/bhuvi-working-branch
+- merge conflict
+- Adding camp model and seeds
+- Merge pull request #1 from tmcomaniciu/tudor-working-branch
+- completed basic framework for frontend and backend, started authentication
+- adding frontend react pages
+- adding update and delete route in camp controller
+- adding camp controller
+- Test commit
+- connected to MongoDB
+- express and react set up
+- initial commit
+- initial setup
+- first commit
